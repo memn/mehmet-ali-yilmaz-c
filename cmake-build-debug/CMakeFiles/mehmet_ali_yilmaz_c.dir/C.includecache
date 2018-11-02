@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/intro.c
+intro.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/intro.h
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/intro.h
+stdio.h
+-
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/intro_example.c
+intro_example.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/intro_example.h
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/intro_example.h
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/main.c
+stdio.h
+-
+intro_example.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/intro_example.h
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers.c
+pointers.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers.h
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers.h
+stdio.h
+-
+
