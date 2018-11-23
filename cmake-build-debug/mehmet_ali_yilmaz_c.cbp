@@ -90,6 +90,12 @@
 		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/intro_example.h">
 			<Option target="mehmet_ali_yilmaz_c"/>
 		</Unit>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/io_examples.c">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/io_examples.h">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
 		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/main.c">
 			<Option target="mehmet_ali_yilmaz_c"/>
 		</Unit>

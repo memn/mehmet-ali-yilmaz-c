@@ -177,6 +177,33 @@ intro_example.c.s:
 	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/intro_example.c.s
 .PHONY : intro_example.c.s
 
+io_examples.o: io_examples.c.o
+
+.PHONY : io_examples.o
+
+# target to build an object file
+io_examples.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.o
+.PHONY : io_examples.c.o
+
+io_examples.i: io_examples.c.i
+
+.PHONY : io_examples.i
+
+# target to preprocess a source file
+io_examples.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.i
+.PHONY : io_examples.c.i
+
+io_examples.s: io_examples.c.s
+
+.PHONY : io_examples.s
+
+# target to generate assembly for a file
+io_examples.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.s
+.PHONY : io_examples.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -246,6 +273,9 @@ help:
 	@echo "... intro_example.o"
 	@echo "... intro_example.i"
 	@echo "... intro_example.s"
+	@echo "... io_examples.o"
+	@echo "... io_examples.i"
+	@echo "... io_examples.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

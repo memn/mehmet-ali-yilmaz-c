@@ -20,11 +20,21 @@ intro_example.h
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/intro_example.h
 
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/io_examples.c
+stdio.h
+-
+io_examples.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/io_examples.h
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/io_examples.h
+
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/main.c
 stdio.h
 -
 intro_example.h
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/intro_example.h
+io_examples.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/io_examples.h
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers.c
 pointers.h

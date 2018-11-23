@@ -7,7 +7,11 @@ CMakeFiles/mehmet_ali_yilmaz_c.dir/intro.c.o: ../intro.h
 CMakeFiles/mehmet_ali_yilmaz_c.dir/intro_example.c.o: ../intro_example.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/intro_example.c.o: ../intro_example.h
 
+CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.o: ../io_examples.c
+CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.o: ../io_examples.h
+
 CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o: ../intro_example.h
+CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o: ../io_examples.h
 CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o: ../main.c
 
 CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers.c.o: ../pointers.c

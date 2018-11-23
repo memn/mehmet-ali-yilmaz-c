@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include "intro_example.h"
-
+#include "io_examples.h"
 
 int main() {
-    double result = convert2Centimeters(10, 2);
-    printf("%f", result);
+//    fprintf_examples();
+    fscanf_examples();
     return 0;
 }
 
