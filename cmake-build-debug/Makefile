@@ -123,6 +123,33 @@ mehmet_ali_yilmaz_c/fast:
 	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/build
 .PHONY : mehmet_ali_yilmaz_c/fast
 
+if_else.o: if_else.c.o
+
+.PHONY : if_else.o
+
+# target to build an object file
+if_else.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/if_else.c.o
+.PHONY : if_else.c.o
+
+if_else.i: if_else.c.i
+
+.PHONY : if_else.i
+
+# target to preprocess a source file
+if_else.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/if_else.c.i
+.PHONY : if_else.c.i
+
+if_else.s: if_else.c.s
+
+.PHONY : if_else.s
+
+# target to generate assembly for a file
+if_else.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/if_else.c.s
+.PHONY : if_else.c.s
+
 intro.o: intro.c.o
 
 .PHONY : intro.o
@@ -267,6 +294,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... mehmet_ali_yilmaz_c"
+	@echo "... if_else.o"
+	@echo "... if_else.i"
+	@echo "... if_else.s"
 	@echo "... intro.o"
 	@echo "... intro.i"
 	@echo "... intro.s"

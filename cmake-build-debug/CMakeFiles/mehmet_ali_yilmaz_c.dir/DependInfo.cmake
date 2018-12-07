@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
+  "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/if_else.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/if_else.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/intro.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/intro.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/intro_example.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/intro_example.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/io_examples.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.o"

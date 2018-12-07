@@ -4,6 +4,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/mehmet_ali_yilmaz_c.dir/intro.c.o"
   "CMakeFiles/mehmet_ali_yilmaz_c.dir/intro_example.c.o"
   "CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.o"
+  "CMakeFiles/mehmet_ali_yilmaz_c.dir/if_else.c.o"
   "mehmet_ali_yilmaz_c.pdb"
   "mehmet_ali_yilmaz_c"
 )
