@@ -1,6 +1,5 @@
 #include <stdio.h>
-#include "intro_example.h"
-#include "io_examples.h"
+#include "if_else.h"
 
 void ornek();
 
@@ -8,9 +7,14 @@ int main() {
 //    fprintf_examples();
 //    fscanf_examples();
 
-    ornek();
-    if_else();
-
+//    ornek();
+//    if_else_examples();
+//    if_fonksiyon();
+//    calculator();
+//    string_compare();
+//    lazy();
+//    switch_example();
+    bank_ops();
     return 0;
 }
 

@@ -6,6 +6,16 @@
 
 #IncludeRegexTransform: 
 
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/if_else.c
+if_else.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/if_else.h
+stdio.h
+-
+assert.h
+-
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/if_else.h
+
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/intro.c
 intro.h
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/intro.h
@@ -31,10 +41,8 @@ io_examples.h
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/main.c
 stdio.h
 -
-intro_example.h
-/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/intro_example.h
-io_examples.h
-/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/io_examples.h
+if_else.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/if_else.h
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers.c
 pointers.h
