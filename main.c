@@ -1,7 +1,7 @@
-#include <stdio.h>
-#include "number_guess.h"
 
-void ornek();
+#include "for_examples.h"
+#include "loops.h"
+
 
 int main() {
 //    fprintf_examples();
@@ -15,13 +15,9 @@ int main() {
 //    lazy();
 //    switch_example();
 //    bank_ops();
-    start_game();
+//    start_game();
+//    for_examples();
+    stars(22);
+
     return 0;
 }
-
-void ornek() {
-    char cumle[30];
-    fgets(cumle, 30, stdin);
-    printf("%s", cumle);
-}
-

@@ -78,6 +78,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/for_examples.c">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/for_examples.h">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
 		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/if_else.c">
 			<Option target="mehmet_ali_yilmaz_c"/>
 		</Unit>
@@ -100,6 +106,12 @@
 			<Option target="mehmet_ali_yilmaz_c"/>
 		</Unit>
 		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/io_examples.h">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.c">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.h">
 			<Option target="mehmet_ali_yilmaz_c"/>
 		</Unit>
 		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/main.c">

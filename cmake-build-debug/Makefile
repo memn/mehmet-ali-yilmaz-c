@@ -123,6 +123,33 @@ mehmet_ali_yilmaz_c/fast:
 	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/build
 .PHONY : mehmet_ali_yilmaz_c/fast
 
+for_examples.o: for_examples.c.o
+
+.PHONY : for_examples.o
+
+# target to build an object file
+for_examples.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o
+.PHONY : for_examples.c.o
+
+for_examples.i: for_examples.c.i
+
+.PHONY : for_examples.i
+
+# target to preprocess a source file
+for_examples.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.i
+.PHONY : for_examples.c.i
+
+for_examples.s: for_examples.c.s
+
+.PHONY : for_examples.s
+
+# target to generate assembly for a file
+for_examples.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.s
+.PHONY : for_examples.c.s
+
 if_else.o: if_else.c.o
 
 .PHONY : if_else.o
@@ -231,6 +258,33 @@ io_examples.c.s:
 	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.s
 .PHONY : io_examples.c.s
 
+loops.o: loops.c.o
+
+.PHONY : loops.o
+
+# target to build an object file
+loops.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o
+.PHONY : loops.c.o
+
+loops.i: loops.c.i
+
+.PHONY : loops.i
+
+# target to preprocess a source file
+loops.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.i
+.PHONY : loops.c.i
+
+loops.s: loops.c.s
+
+.PHONY : loops.s
+
+# target to generate assembly for a file
+loops.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.s
+.PHONY : loops.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -321,6 +375,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... mehmet_ali_yilmaz_c"
+	@echo "... for_examples.o"
+	@echo "... for_examples.i"
+	@echo "... for_examples.s"
 	@echo "... if_else.o"
 	@echo "... if_else.i"
 	@echo "... if_else.s"
@@ -333,6 +390,9 @@ help:
 	@echo "... io_examples.o"
 	@echo "... io_examples.i"
 	@echo "... io_examples.s"
+	@echo "... loops.o"
+	@echo "... loops.i"
+	@echo "... loops.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

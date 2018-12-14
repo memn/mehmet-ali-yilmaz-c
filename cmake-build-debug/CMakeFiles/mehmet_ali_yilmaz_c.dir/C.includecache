@@ -6,6 +6,16 @@
 
 #IncludeRegexTransform: 
 
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/for_examples.c
+for_examples.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/for_examples.h
+stdio.h
+-
+stdbool.h
+-
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/for_examples.h
+
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/if_else.c
 if_else.h
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/if_else.h
@@ -38,11 +48,39 @@ io_examples.h
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/io_examples.h
 
-/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/main.c
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.c
+loops.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.h
 stdio.h
 -
-if_else.h
-/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/if_else.h
+assert.h
+-
+stdlib.h
+-
+time.h
+-
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.h
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/main.c
+for_examples.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/for_examples.h
+loops.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.h
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/number_guess.c
+number_guess.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/number_guess.h
+stdio.h
+-
+assert.h
+-
+stdlib.h
+-
+time.h
+-
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/number_guess.h
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers.c
 pointers.h

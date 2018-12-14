@@ -225,6 +225,54 @@ CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.o.provides: CMakeFiles/mehmet_
 CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.o.provides.build: CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.o
 
 
+CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o: CMakeFiles/mehmet_ali_yilmaz_c.dir/flags.make
+CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o: ../for_examples.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o   -c /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/for_examples.c
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/for_examples.c > CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.i
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/for_examples.c -o CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.s
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o.requires:
+
+.PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o.requires
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o.provides: CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o.requires
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o.provides.build
+.PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o.provides
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o.provides.build: CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o
+
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o: CMakeFiles/mehmet_ali_yilmaz_c.dir/flags.make
+CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o: ../loops.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o   -c /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.c
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.c > CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.i
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.c -o CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.s
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o.requires:
+
+.PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o.requires
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o.provides: CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o.requires
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o.provides.build
+.PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o.provides
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o.provides.build: CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o
+
+
 # Object files for target mehmet_ali_yilmaz_c
 mehmet_ali_yilmaz_c_OBJECTS = \
 "CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o" \
@@ -233,7 +281,9 @@ mehmet_ali_yilmaz_c_OBJECTS = \
 "CMakeFiles/mehmet_ali_yilmaz_c.dir/intro_example.c.o" \
 "CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.o" \
 "CMakeFiles/mehmet_ali_yilmaz_c.dir/if_else.c.o" \
-"CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.o"
+"CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.o" \
+"CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o" \
+"CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o"
 
 # External object files for target mehmet_ali_yilmaz_c
 mehmet_ali_yilmaz_c_EXTERNAL_OBJECTS =
@@ -245,9 +295,11 @@ mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/intro_example.c.o
 mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.o
 mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/if_else.c.o
 mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.o
+mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o
+mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o
 mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make
 mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking C executable mehmet_ali_yilmaz_c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking C executable mehmet_ali_yilmaz_c"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mehmet_ali_yilmaz_c.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -262,6 +314,8 @@ CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/
 CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.o.requires
 CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/if_else.c.o.requires
 CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.o.requires
+CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o.requires
+CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o.requires
 
 .PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/requires
 
