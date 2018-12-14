@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/intro_example.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/intro_example.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/io_examples.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/main.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o"
+  "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/number_guess.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")

@@ -258,6 +258,33 @@ main.c.s:
 	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.s
 .PHONY : main.c.s
 
+number_guess.o: number_guess.c.o
+
+.PHONY : number_guess.o
+
+# target to build an object file
+number_guess.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.o
+.PHONY : number_guess.c.o
+
+number_guess.i: number_guess.c.i
+
+.PHONY : number_guess.i
+
+# target to preprocess a source file
+number_guess.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.i
+.PHONY : number_guess.c.i
+
+number_guess.s: number_guess.c.s
+
+.PHONY : number_guess.s
+
+# target to generate assembly for a file
+number_guess.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.s
+.PHONY : number_guess.c.s
+
 pointers.o: pointers.c.o
 
 .PHONY : pointers.o
@@ -309,6 +336,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... number_guess.o"
+	@echo "... number_guess.i"
+	@echo "... number_guess.s"
 	@echo "... pointers.o"
 	@echo "... pointers.i"
 	@echo "... pointers.s"

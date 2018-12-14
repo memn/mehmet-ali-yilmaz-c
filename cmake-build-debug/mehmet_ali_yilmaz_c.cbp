@@ -105,6 +105,12 @@
 		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/main.c">
 			<Option target="mehmet_ali_yilmaz_c"/>
 		</Unit>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/number_guess.c">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/number_guess.h">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
 		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers.c">
 			<Option target="mehmet_ali_yilmaz_c"/>
 		</Unit>

@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "if_else.h"
+#include "number_guess.h"
 
 void ornek();
 
@@ -14,7 +14,8 @@ int main() {
 //    string_compare();
 //    lazy();
 //    switch_example();
-    bank_ops();
+//    bank_ops();
+    start_game();
     return 0;
 }
 
