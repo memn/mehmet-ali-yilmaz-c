@@ -1,5 +1,5 @@
 
-#include "for_examples.h"
+#include <stdio.h>
 #include "loops.h"
 
 
@@ -18,6 +18,17 @@ int main() {
 //    start_game();
 //    for_examples();
     stars(22);
+
+    // aralik 10 20
+    int sayi;
+    int tahmin = 12;
+    do {
+        scanf("%d", &sayi);
+        if (sayi < 0) {
+            continue; // basa don!
+        }
+    } while (sayi != tahmin);
+
 
     return 0;
 }
