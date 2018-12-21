@@ -4,6 +4,9 @@
 CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o
  /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/for_examples.c
  /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/for_examples.h
+CMakeFiles/mehmet_ali_yilmaz_c.dir/functions_examples.c.o
+ /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/functions_examples.c
+ /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/functions_examples.h
 CMakeFiles/mehmet_ali_yilmaz_c.dir/if_else.c.o
  /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/if_else.c
  /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/if_else.h
@@ -20,8 +23,7 @@ CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o
  /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.c
  /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.h
 CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o
- /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/for_examples.h
- /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.h
+ /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/functions_examples.h
  /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/main.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.o
  /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/number_guess.c

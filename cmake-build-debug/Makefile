@@ -150,6 +150,33 @@ for_examples.c.s:
 	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.s
 .PHONY : for_examples.c.s
 
+functions_examples.o: functions_examples.c.o
+
+.PHONY : functions_examples.o
+
+# target to build an object file
+functions_examples.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/functions_examples.c.o
+.PHONY : functions_examples.c.o
+
+functions_examples.i: functions_examples.c.i
+
+.PHONY : functions_examples.i
+
+# target to preprocess a source file
+functions_examples.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/functions_examples.c.i
+.PHONY : functions_examples.c.i
+
+functions_examples.s: functions_examples.c.s
+
+.PHONY : functions_examples.s
+
+# target to generate assembly for a file
+functions_examples.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/functions_examples.c.s
+.PHONY : functions_examples.c.s
+
 if_else.o: if_else.c.o
 
 .PHONY : if_else.o
@@ -257,6 +284,33 @@ io_examples.s: io_examples.c.s
 io_examples.c.s:
 	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.s
 .PHONY : io_examples.c.s
+
+loop_odev_cozumu.o: loop_odev_cozumu.c.o
+
+.PHONY : loop_odev_cozumu.o
+
+# target to build an object file
+loop_odev_cozumu.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/loop_odev_cozumu.c.o
+.PHONY : loop_odev_cozumu.c.o
+
+loop_odev_cozumu.i: loop_odev_cozumu.c.i
+
+.PHONY : loop_odev_cozumu.i
+
+# target to preprocess a source file
+loop_odev_cozumu.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/loop_odev_cozumu.c.i
+.PHONY : loop_odev_cozumu.c.i
+
+loop_odev_cozumu.s: loop_odev_cozumu.c.s
+
+.PHONY : loop_odev_cozumu.s
+
+# target to generate assembly for a file
+loop_odev_cozumu.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/loop_odev_cozumu.c.s
+.PHONY : loop_odev_cozumu.c.s
 
 loops.o: loops.c.o
 
@@ -378,6 +432,9 @@ help:
 	@echo "... for_examples.o"
 	@echo "... for_examples.i"
 	@echo "... for_examples.s"
+	@echo "... functions_examples.o"
+	@echo "... functions_examples.i"
+	@echo "... functions_examples.s"
 	@echo "... if_else.o"
 	@echo "... if_else.i"
 	@echo "... if_else.s"
@@ -390,6 +447,9 @@ help:
 	@echo "... io_examples.o"
 	@echo "... io_examples.i"
 	@echo "... io_examples.s"
+	@echo "... loop_odev_cozumu.o"
+	@echo "... loop_odev_cozumu.i"
+	@echo "... loop_odev_cozumu.s"
 	@echo "... loops.o"
 	@echo "... loops.i"
 	@echo "... loops.s"

@@ -8,6 +8,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.o"
   "CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o"
   "CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o"
+  "CMakeFiles/mehmet_ali_yilmaz_c.dir/functions_examples.c.o"
+  "CMakeFiles/mehmet_ali_yilmaz_c.dir/loop_odev_cozumu.c.o"
   "mehmet_ali_yilmaz_c.pdb"
   "mehmet_ali_yilmaz_c"
 )

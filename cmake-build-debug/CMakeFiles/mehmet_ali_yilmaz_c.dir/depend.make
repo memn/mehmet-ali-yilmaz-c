@@ -4,6 +4,9 @@
 CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o: ../for_examples.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o: ../for_examples.h
 
+CMakeFiles/mehmet_ali_yilmaz_c.dir/functions_examples.c.o: ../functions_examples.c
+CMakeFiles/mehmet_ali_yilmaz_c.dir/functions_examples.c.o: ../functions_examples.h
+
 CMakeFiles/mehmet_ali_yilmaz_c.dir/if_else.c.o: ../if_else.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/if_else.c.o: ../if_else.h
 
@@ -19,8 +22,7 @@ CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.o: ../io_examples.h
 CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o: ../loops.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o: ../loops.h
 
-CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o: ../for_examples.h
-CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o: ../loops.h
+CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o: ../functions_examples.h
 CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o: ../main.c
 
 CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.o: ../number_guess.c
