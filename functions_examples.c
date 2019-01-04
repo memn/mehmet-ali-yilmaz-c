@@ -107,3 +107,21 @@ int fibonacci_iterative(int x) {
     }
     return result;
 }
+
+void functions_testing() {
+    assert(12 == absoulte(12));
+    assert(12 == absoulte(-12));
+    assert(0 == absoulte(0));
+    int max = maxOf(3, 11, 2);
+    assert(11 == max);
+
+    double n_x;
+    double n_y;
+    next_point(3, &n_x, &n_y);
+    assert(4 == n_x);
+    assert(7 == n_y);
+
+    assert(120 == factorial(5));
+    assert(5 == fibonacci(5));
+    printf("%d", fibonacci(2000));
+}

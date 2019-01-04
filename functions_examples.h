@@ -33,5 +33,6 @@ int factorial(int);
 // fibonacci
 int fibonacci(int);
 
+void functions_testing();
 
 #endif //MEHMET_ALI_YILMAZ_C_FUNCTIONS_EXAMPLES_H
