@@ -3,3 +3,11 @@
 //
 
 #include "array_hw.h"
+
+
+void test() {
+    generateRandomMatrix(FILE, 0, 100);
+    readMatrixFromFile(FILE);
+    // matrix is filled
+
+}
