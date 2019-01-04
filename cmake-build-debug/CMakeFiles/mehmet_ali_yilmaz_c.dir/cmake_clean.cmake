@@ -10,6 +10,10 @@ file(REMOVE_RECURSE
   "CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o"
   "CMakeFiles/mehmet_ali_yilmaz_c.dir/functions_examples.c.o"
   "CMakeFiles/mehmet_ali_yilmaz_c.dir/loop_odev_cozumu.c.o"
+  "CMakeFiles/mehmet_ali_yilmaz_c.dir/user_defined_funcs2.c.o"
+  "CMakeFiles/mehmet_ali_yilmaz_c.dir/string_ops.c.o"
+  "CMakeFiles/mehmet_ali_yilmaz_c.dir/array_examples.c.o"
+  "CMakeFiles/mehmet_ali_yilmaz_c.dir/array_hw.c.o"
   "mehmet_ali_yilmaz_c.pdb"
   "mehmet_ali_yilmaz_c"
 )

@@ -123,6 +123,60 @@ mehmet_ali_yilmaz_c/fast:
 	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/build
 .PHONY : mehmet_ali_yilmaz_c/fast
 
+array_examples.o: array_examples.c.o
+
+.PHONY : array_examples.o
+
+# target to build an object file
+array_examples.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/array_examples.c.o
+.PHONY : array_examples.c.o
+
+array_examples.i: array_examples.c.i
+
+.PHONY : array_examples.i
+
+# target to preprocess a source file
+array_examples.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/array_examples.c.i
+.PHONY : array_examples.c.i
+
+array_examples.s: array_examples.c.s
+
+.PHONY : array_examples.s
+
+# target to generate assembly for a file
+array_examples.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/array_examples.c.s
+.PHONY : array_examples.c.s
+
+array_hw.o: array_hw.c.o
+
+.PHONY : array_hw.o
+
+# target to build an object file
+array_hw.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/array_hw.c.o
+.PHONY : array_hw.c.o
+
+array_hw.i: array_hw.c.i
+
+.PHONY : array_hw.i
+
+# target to preprocess a source file
+array_hw.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/array_hw.c.i
+.PHONY : array_hw.c.i
+
+array_hw.s: array_hw.c.s
+
+.PHONY : array_hw.s
+
+# target to generate assembly for a file
+array_hw.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/array_hw.c.s
+.PHONY : array_hw.c.s
+
 for_examples.o: for_examples.c.o
 
 .PHONY : for_examples.o
@@ -420,6 +474,60 @@ pointers.c.s:
 	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers.c.s
 .PHONY : pointers.c.s
 
+string_ops.o: string_ops.c.o
+
+.PHONY : string_ops.o
+
+# target to build an object file
+string_ops.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/string_ops.c.o
+.PHONY : string_ops.c.o
+
+string_ops.i: string_ops.c.i
+
+.PHONY : string_ops.i
+
+# target to preprocess a source file
+string_ops.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/string_ops.c.i
+.PHONY : string_ops.c.i
+
+string_ops.s: string_ops.c.s
+
+.PHONY : string_ops.s
+
+# target to generate assembly for a file
+string_ops.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/string_ops.c.s
+.PHONY : string_ops.c.s
+
+user_defined_funcs2.o: user_defined_funcs2.c.o
+
+.PHONY : user_defined_funcs2.o
+
+# target to build an object file
+user_defined_funcs2.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/user_defined_funcs2.c.o
+.PHONY : user_defined_funcs2.c.o
+
+user_defined_funcs2.i: user_defined_funcs2.c.i
+
+.PHONY : user_defined_funcs2.i
+
+# target to preprocess a source file
+user_defined_funcs2.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/user_defined_funcs2.c.i
+.PHONY : user_defined_funcs2.c.i
+
+user_defined_funcs2.s: user_defined_funcs2.c.s
+
+.PHONY : user_defined_funcs2.s
+
+# target to generate assembly for a file
+user_defined_funcs2.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/user_defined_funcs2.c.s
+.PHONY : user_defined_funcs2.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -429,6 +537,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... mehmet_ali_yilmaz_c"
+	@echo "... array_examples.o"
+	@echo "... array_examples.i"
+	@echo "... array_examples.s"
+	@echo "... array_hw.o"
+	@echo "... array_hw.i"
+	@echo "... array_hw.s"
 	@echo "... for_examples.o"
 	@echo "... for_examples.i"
 	@echo "... for_examples.s"
@@ -462,6 +576,12 @@ help:
 	@echo "... pointers.o"
 	@echo "... pointers.i"
 	@echo "... pointers.s"
+	@echo "... string_ops.o"
+	@echo "... string_ops.i"
+	@echo "... string_ops.s"
+	@echo "... user_defined_funcs2.o"
+	@echo "... user_defined_funcs2.i"
+	@echo "... user_defined_funcs2.s"
 .PHONY : help
 
 

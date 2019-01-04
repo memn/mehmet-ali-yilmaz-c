@@ -78,6 +78,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/array_examples.c">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/array_examples.h">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/array_hw.c">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/array_hw.h">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
 		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/for_examples.c">
 			<Option target="mehmet_ali_yilmaz_c"/>
 		</Unit>
@@ -139,6 +151,18 @@
 			<Option target="mehmet_ali_yilmaz_c"/>
 		</Unit>
 		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers.h">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/string_ops.c">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/string_ops.h">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/user_defined_funcs2.c">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/user_defined_funcs2.h">
 			<Option target="mehmet_ali_yilmaz_c"/>
 		</Unit>
 		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/CMakeLists.txt">

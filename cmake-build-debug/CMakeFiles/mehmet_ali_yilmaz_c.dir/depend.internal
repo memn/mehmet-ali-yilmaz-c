@@ -19,11 +19,12 @@ CMakeFiles/mehmet_ali_yilmaz_c.dir/intro_example.c.o
 CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.o
  /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/io_examples.c
  /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/io_examples.h
+CMakeFiles/mehmet_ali_yilmaz_c.dir/loop_odev_cozumu.c.o
+ /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loop_odev_cozumu.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o
  /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.c
  /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.h
 CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o
- /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/functions_examples.h
  /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/main.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.o
  /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/number_guess.c
@@ -31,3 +32,10 @@ CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.o
 CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers.c.o
  /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers.c
  /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers.h
+CMakeFiles/mehmet_ali_yilmaz_c.dir/string_ops.c.o
+ /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/string_ops.c
+ /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/string_ops.h
+ /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/user_defined_funcs2.h
+CMakeFiles/mehmet_ali_yilmaz_c.dir/user_defined_funcs2.c.o
+ /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/user_defined_funcs2.c
+ /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/user_defined_funcs2.h

@@ -60,6 +60,10 @@ io_examples.h
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/io_examples.h
 
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loop_odev_cozumu.c
+stdio.h
+-
+
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.c
 loops.h
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.h
@@ -75,12 +79,8 @@ time.h
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.h
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/main.c
-assert.h
--
 stdio.h
 -
-functions_examples.h
-/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/functions_examples.h
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/number_guess.c
 number_guess.h
@@ -102,5 +102,27 @@ pointers.h
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers.h
 stdio.h
+-
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/string_ops.c
+string_ops.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/string_ops.h
+user_defined_funcs2.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/user_defined_funcs2.h
+stdio.h
+-
+string.h
+-
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/string_ops.h
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/user_defined_funcs2.c
+stdio.h
+-
+user_defined_funcs2.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/user_defined_funcs2.h
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/user_defined_funcs2.h
+stdbool.h
 -
 
