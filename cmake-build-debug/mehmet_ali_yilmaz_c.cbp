@@ -153,6 +153,12 @@
 		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers.h">
 			<Option target="mehmet_ali_yilmaz_c"/>
 		</Unit>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers1.c">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers1.h">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
 		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/string_ops.c">
 			<Option target="mehmet_ali_yilmaz_c"/>
 		</Unit>

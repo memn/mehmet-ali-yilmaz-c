@@ -6,6 +6,20 @@
 
 #IncludeRegexTransform: 
 
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/array_examples.c
+stdio.h
+-
+array_examples.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/array_examples.h
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/array_examples.h
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/array_hw.c
+array_hw.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/array_hw.h
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/array_hw.h
+
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/for_examples.c
 for_examples.h
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/for_examples.h
@@ -81,6 +95,8 @@ time.h
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/main.c
 stdio.h
 -
+pointers1.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers1.h
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/number_guess.c
 number_guess.h
@@ -103,6 +119,12 @@ pointers.h
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers.h
 stdio.h
 -
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers1.c
+pointers1.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers1.h
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers1.h
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/string_ops.c
 string_ops.h

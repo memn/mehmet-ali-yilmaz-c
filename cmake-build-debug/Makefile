@@ -474,6 +474,33 @@ pointers.c.s:
 	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers.c.s
 .PHONY : pointers.c.s
 
+pointers1.o: pointers1.c.o
+
+.PHONY : pointers1.o
+
+# target to build an object file
+pointers1.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers1.c.o
+.PHONY : pointers1.c.o
+
+pointers1.i: pointers1.c.i
+
+.PHONY : pointers1.i
+
+# target to preprocess a source file
+pointers1.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers1.c.i
+.PHONY : pointers1.c.i
+
+pointers1.s: pointers1.c.s
+
+.PHONY : pointers1.s
+
+# target to generate assembly for a file
+pointers1.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers1.c.s
+.PHONY : pointers1.c.s
+
 string_ops.o: string_ops.c.o
 
 .PHONY : string_ops.o
@@ -576,6 +603,9 @@ help:
 	@echo "... pointers.o"
 	@echo "... pointers.i"
 	@echo "... pointers.s"
+	@echo "... pointers1.o"
+	@echo "... pointers1.i"
+	@echo "... pointers1.s"
 	@echo "... string_ops.o"
 	@echo "... string_ops.i"
 	@echo "... string_ops.s"

@@ -14,6 +14,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/mehmet_ali_yilmaz_c.dir/string_ops.c.o"
   "CMakeFiles/mehmet_ali_yilmaz_c.dir/array_examples.c.o"
   "CMakeFiles/mehmet_ali_yilmaz_c.dir/array_hw.c.o"
+  "CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers1.c.o"
   "mehmet_ali_yilmaz_c.pdb"
   "mehmet_ali_yilmaz_c"
 )

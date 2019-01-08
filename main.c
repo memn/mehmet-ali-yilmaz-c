@@ -1,6 +1,14 @@
+#include <stdio.h>
+#include "pointers1.h"
 
 
-int columnSum(int matrix[3][5], int theColumn);
+void printArr(int arr[], int size) {
+    for (int i = 0; i < size; ++i) {
+        printf("%d ", arr[i]);
+    }
+    printf("\n");
+
+}
 
 int main() {
 //    fprintf_examples();
@@ -22,27 +30,13 @@ int main() {
 //    functions_testing();
 //    student_note_average_example();
 
-    int matrix[3][5];
+
+    int arr[] = {3, 4, 5, 6, 7};
+    printArr(arr, 5);
+    reverse(arr, 5);
+    printArr(arr, 5);
 
 
     return 0;
 }
 
-int rowSum(int matrix[3][5], int theRow) {
-    int sum = 0;
-    for (int i = 0; i < 5; ++i) {
-        sum += matrix[theRow][i];
-    }
-    return sum;
-}
-
-int columnSum(int matrix[3][5], int theColumn) {
-    int sum = 0;
-    for (int i = 0; i < 3; ++i) {
-        sum += matrix[i][theColumn];
-
-
-    }
-    return sum;
-
-}
