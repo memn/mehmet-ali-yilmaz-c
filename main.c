@@ -1,41 +1,42 @@
+
+
+
+#include "dynamıc_pointers.h"
+#include <stdlib.h>
 #include <stdio.h>
-#include "pointers1.h"
-
-
-void printArr(int arr[], int size) {
-    for (int i = 0; i < size; ++i) {
-        printf("%d ", arr[i]);
-    }
-    printf("\n");
-
-}
 
 int main() {
-//    fprintf_examples();
-//    fscanf_examples();
-
-//    ornek();
-//    if_else_examples();
-//    if_fonksiyon();
-//    calculator();
-//    string_compare();
-//    lazy();
-//    switch_example();
-//    bank_ops();
-//    start_game();
-//    for_examples();
-//    stars(22);
-
-//    some_function_examples();
-//    functions_testing();
-//    student_note_average_example();
+    dynamic_pointers_examples();
 
 
-    int arr[] = {3, 4, 5, 6, 7};
-    printArr(arr, 5);
-    reverse(arr, 5);
-    printArr(arr, 5);
+//  []  [0, 1, 2, 4 , 9],
+//  []  [3, 4, 5, 4 , 9],
+//  []  [6, 7, 8, 4 , 9],
 
+    int row = 3;
+    int column = 5;
+    int **matrix = (int **) malloc(sizeof(int *) * row);
+
+    for (int i = 0; i < row; ++i) {
+        matrix[i] = malloc(column * sizeof(int));
+    }
+
+    for (int i = 0; i < row; ++i) {
+        for (int j = 0; j < column; ++j) {
+            matrix[i][j] = i * j;
+        }
+    }
+    for (int i = 0; i < row; ++i) {
+        for (int j = 0; j < column; ++j) {
+            printf("%d\t", matrix[i][j]);
+        }
+        printf("\n");
+    }
+
+    for (int i = 0; i < row; ++i) {
+        free(matrix[i]);
+    }
+    free(matrix);
 
     return 0;
 }
