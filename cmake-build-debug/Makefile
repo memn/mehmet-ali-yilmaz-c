@@ -609,6 +609,33 @@ string_ops.c.s:
 	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/string_ops.c.s
 .PHONY : string_ops.c.s
 
+structs_lesson.o: structs_lesson.c.o
+
+.PHONY : structs_lesson.o
+
+# target to build an object file
+structs_lesson.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/structs_lesson.c.o
+.PHONY : structs_lesson.c.o
+
+structs_lesson.i: structs_lesson.c.i
+
+.PHONY : structs_lesson.i
+
+# target to preprocess a source file
+structs_lesson.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/structs_lesson.c.i
+.PHONY : structs_lesson.c.i
+
+structs_lesson.s: structs_lesson.c.s
+
+.PHONY : structs_lesson.s
+
+# target to generate assembly for a file
+structs_lesson.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/structs_lesson.c.s
+.PHONY : structs_lesson.c.s
+
 user_defined_funcs2.o: user_defined_funcs2.c.o
 
 .PHONY : user_defined_funcs2.o
@@ -699,6 +726,9 @@ help:
 	@echo "... string_ops.o"
 	@echo "... string_ops.i"
 	@echo "... string_ops.s"
+	@echo "... structs_lesson.o"
+	@echo "... structs_lesson.i"
+	@echo "... structs_lesson.s"
 	@echo "... user_defined_funcs2.o"
 	@echo "... user_defined_funcs2.i"
 	@echo "... user_defined_funcs2.s"

@@ -12,8 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25dfbf00-83d3-4142-8d60-e416f92de8ee" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/dynamic_odev.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dynamic_odev.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structs_lesson.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/structs_lesson.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
@@ -30,9 +30,9 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/mehmet_ali_yilmaz_c" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/mehmet_ali_yilmaz_c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/mehmet_ali_yilmaz_c.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/mehmet_ali_yilmaz_c.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dynamıc_pointers.c" beforeDir="false" afterPath="$PROJECT_DIR$/dynamıc_pointers.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
+    <list id="bb090929-40cd-475f-9a41-579936b9a200" name="build-files" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,19 +52,14 @@
       <file leaf-file-name="main.c" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="dynamıc_pointers.c" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dynamıc_pointers.c">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="86" selection-start-line="86" selection-end-line="86" />
+            <state relative-caret-position="289">
+              <caret line="121" column="12" selection-start-line="121" selection-start-column="12" selection-end-line="121" selection-end-column="12" />
               <folding>
-                <element signature="e#49#78#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#415#459#0" />
+                <element signature="e#417#452#0" />
+                <element signature="e#454#569#0" />
+                <element signature="e#1928#1993#0" />
               </folding>
             </state>
           </provider>
@@ -127,6 +122,8 @@
         <option value="$PROJECT_DIR$/dynamıc_pointers.h" />
         <option value="$PROJECT_DIR$/dynamıc_pointers.c" />
         <option value="$PROJECT_DIR$/dynamic_odev.c" />
+        <option value="$PROJECT_DIR$/structs_lesson.h" />
+        <option value="$PROJECT_DIR$/structs_lesson.c" />
         <option value="$PROJECT_DIR$/main.c" />
       </list>
     </option>
@@ -201,6 +198,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="25dfbf00-83d3-4142-8d60-e416f92de8ee" name="Default" comment="" />
+      <changelist id="bb090929-40cd-475f-9a41-579936b9a200" name="build-files" comment="" />
       <created>1541156801284</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -220,7 +218,7 @@
       <workItem from="1546941288427" duration="1572000" />
       <workItem from="1547811614692" duration="5000" />
       <workItem from="1548430630356" duration="5190000" />
-      <workItem from="1548776348878" duration="1602000" />
+      <workItem from="1548776348878" duration="6039000" />
     </task>
     <task id="LOCAL-00001" summary="printf, fprintf, scanf, fscanf">
       <created>1542977440468</created>
@@ -313,11 +311,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548436496826</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="dynamic programming 2d array odevi yapildi.">
+      <created>1548778357630</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1548778357630</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51135000" />
+    <option name="totallyTimeSpent" value="55572000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -325,10 +330,11 @@
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49691993" visible="true" weight="0.223193" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32827586" />
       <window_info anchor="bottom" id="CMake" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32827586" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32827586" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32827586" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32827586" />
       <window_info id="Structure" order="1" sideWeight="0.50308007" side_tool="true" weight="0.223193" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32935324" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -337,7 +343,6 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32827586" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -389,7 +394,8 @@
     <MESSAGE value="functions ornekleri" />
     <MESSAGE value="odev" />
     <MESSAGE value="pointers" />
-    <option name="LAST_COMMIT_MESSAGE" value="pointers" />
+    <MESSAGE value="dynamic programming 2d array odevi yapildi." />
+    <option name="LAST_COMMIT_MESSAGE" value="dynamic programming 2d array odevi yapildi." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -397,27 +403,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/intro.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -703,16 +688,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dynamıc_pointers.c">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="86" selection-start-line="86" selection-end-line="86" />
-          <folding>
-            <element signature="e#49#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/secure/_string.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
@@ -723,20 +698,57 @@
     <entry file="file://$PROJECT_DIR$/dynamic_odev.h">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/dynamıc_pointers.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="e#49#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dynamic_odev.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" column="36" lean-forward="true" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
+        <state relative-caret-position="242">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="e#49#74#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/structs_lesson.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structs_lesson.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/structs_lesson.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding>
+            <element signature="e#50#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="289">
+          <caret line="121" column="12" selection-start-line="121" selection-start-column="12" selection-end-line="121" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#415#459#0" />
+            <element signature="e#417#452#0" />
+            <element signature="e#454#569#0" />
+            <element signature="e#1928#1993#0" />
+          </folding>
         </state>
       </provider>
     </entry>

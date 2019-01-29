@@ -18,6 +18,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o"
   "CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o"
   "CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o"
+  "CMakeFiles/mehmet_ali_yilmaz_c.dir/structs_lesson.c.o"
   "mehmet_ali_yilmaz_c.pdb"
   "mehmet_ali_yilmaz_c"
 )

@@ -183,6 +183,12 @@
 		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/string_ops.h">
 			<Option target="mehmet_ali_yilmaz_c"/>
 		</Unit>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/structs_lesson.c">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
+		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/structs_lesson.h">
+			<Option target="mehmet_ali_yilmaz_c"/>
+		</Unit>
 		<Unit filename="/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/user_defined_funcs2.c">
 			<Option target="mehmet_ali_yilmaz_c"/>
 		</Unit>

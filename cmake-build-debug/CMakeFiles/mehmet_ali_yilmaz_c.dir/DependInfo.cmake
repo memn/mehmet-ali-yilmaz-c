@@ -22,6 +22,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers1.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers1.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/string_ops.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/string_ops.c.o"
+  "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/structs_lesson.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/structs_lesson.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/user_defined_funcs2.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/user_defined_funcs2.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")

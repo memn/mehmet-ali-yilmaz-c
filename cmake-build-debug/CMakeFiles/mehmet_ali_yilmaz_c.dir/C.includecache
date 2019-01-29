@@ -20,6 +20,16 @@ array_hw.h
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/array_hw.h
 
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/dynamic_odev.c
+dynamic_odev.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/dynamic_odev.h
+stdio.h
+-
+stdlib.h
+-
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/dynamic_odev.h
+
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/dynamıc_pointers.c
 dynamıc_pointers.h
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/dynamıc_pointers.h
@@ -103,8 +113,6 @@ time.h
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.h
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/main.c
-dynamıc_pointers.h
-/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/dynamıc_pointers.h
 stdlib.h
 -
 stdio.h
