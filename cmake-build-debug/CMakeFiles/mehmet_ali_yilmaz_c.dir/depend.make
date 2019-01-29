@@ -7,6 +7,9 @@ CMakeFiles/mehmet_ali_yilmaz_c.dir/array_examples.c.o: ../array_examples.h
 CMakeFiles/mehmet_ali_yilmaz_c.dir/array_hw.c.o: ../array_hw.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/array_hw.c.o: ../array_hw.h
 
+CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o: ../dynamıc_pointers.c
+CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o: ../dynamıc_pointers.h
+
 CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o: ../for_examples.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o: ../for_examples.h
 
@@ -30,11 +33,14 @@ CMakeFiles/mehmet_ali_yilmaz_c.dir/loop_odev_cozumu.c.o: ../loop_odev_cozumu.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o: ../loops.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o: ../loops.h
 
+CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o: ../dynamıc_pointers.h
 CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o: ../main.c
-CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o: ../pointers1.h
 
 CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.o: ../number_guess.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.o: ../number_guess.h
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o: ../one_d_pointers.c
+CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o: ../one_d_pointers.h
 
 CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers.c.o: ../pointers.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers.c.o: ../pointers.h

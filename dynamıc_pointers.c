@@ -56,3 +56,31 @@ void two_d_matrix_dynamic() {
 
 
 }
+
+void d_arr_examples_2() {
+    int row = 3;
+    int column = 5;
+    int **matrix = (int **) malloc(sizeof(int *) * row);
+
+    for (int i = 0; i < row; ++i) {
+        matrix[i] = malloc(column * sizeof(int));
+    }
+
+    for (int i = 0; i < row; ++i) {
+        for (int j = 0; j < column; ++j) {
+            matrix[i][j] = i * j;
+        }
+    }
+    for (int i = 0; i < row; ++i) {
+        for (int j = 0; j < column; ++j) {
+            printf("%d\t", matrix[i][j]);
+        }
+        printf("\n");
+    }
+
+    for (int i = 0; i < row; ++i) {
+        free(matrix[i]);
+    }
+    free(matrix);
+}
+

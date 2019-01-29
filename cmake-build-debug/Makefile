@@ -177,6 +177,60 @@ array_hw.c.s:
 	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/array_hw.c.s
 .PHONY : array_hw.c.s
 
+dynamic_odev.o: dynamic_odev.c.o
+
+.PHONY : dynamic_odev.o
+
+# target to build an object file
+dynamic_odev.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o
+.PHONY : dynamic_odev.c.o
+
+dynamic_odev.i: dynamic_odev.c.i
+
+.PHONY : dynamic_odev.i
+
+# target to preprocess a source file
+dynamic_odev.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.i
+.PHONY : dynamic_odev.c.i
+
+dynamic_odev.s: dynamic_odev.c.s
+
+.PHONY : dynamic_odev.s
+
+# target to generate assembly for a file
+dynamic_odev.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.s
+.PHONY : dynamic_odev.c.s
+
+dynamıc_pointers.o: dynamıc_pointers.c.o
+
+.PHONY : dynamıc_pointers.o
+
+# target to build an object file
+dynamıc_pointers.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o
+.PHONY : dynamıc_pointers.c.o
+
+dynamıc_pointers.i: dynamıc_pointers.c.i
+
+.PHONY : dynamıc_pointers.i
+
+# target to preprocess a source file
+dynamıc_pointers.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.i
+.PHONY : dynamıc_pointers.c.i
+
+dynamıc_pointers.s: dynamıc_pointers.c.s
+
+.PHONY : dynamıc_pointers.s
+
+# target to generate assembly for a file
+dynamıc_pointers.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.s
+.PHONY : dynamıc_pointers.c.s
+
 for_examples.o: for_examples.c.o
 
 .PHONY : for_examples.o
@@ -447,6 +501,33 @@ number_guess.c.s:
 	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.s
 .PHONY : number_guess.c.s
 
+one_d_pointers.o: one_d_pointers.c.o
+
+.PHONY : one_d_pointers.o
+
+# target to build an object file
+one_d_pointers.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o
+.PHONY : one_d_pointers.c.o
+
+one_d_pointers.i: one_d_pointers.c.i
+
+.PHONY : one_d_pointers.i
+
+# target to preprocess a source file
+one_d_pointers.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.i
+.PHONY : one_d_pointers.c.i
+
+one_d_pointers.s: one_d_pointers.c.s
+
+.PHONY : one_d_pointers.s
+
+# target to generate assembly for a file
+one_d_pointers.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.s
+.PHONY : one_d_pointers.c.s
+
 pointers.o: pointers.c.o
 
 .PHONY : pointers.o
@@ -570,6 +651,12 @@ help:
 	@echo "... array_hw.o"
 	@echo "... array_hw.i"
 	@echo "... array_hw.s"
+	@echo "... dynamic_odev.o"
+	@echo "... dynamic_odev.i"
+	@echo "... dynamic_odev.s"
+	@echo "... dynamıc_pointers.o"
+	@echo "... dynamıc_pointers.i"
+	@echo "... dynamıc_pointers.s"
 	@echo "... for_examples.o"
 	@echo "... for_examples.i"
 	@echo "... for_examples.s"
@@ -600,6 +687,9 @@ help:
 	@echo "... number_guess.o"
 	@echo "... number_guess.i"
 	@echo "... number_guess.s"
+	@echo "... one_d_pointers.o"
+	@echo "... one_d_pointers.i"
+	@echo "... one_d_pointers.s"
 	@echo "... pointers.o"
 	@echo "... pointers.i"
 	@echo "... pointers.s"

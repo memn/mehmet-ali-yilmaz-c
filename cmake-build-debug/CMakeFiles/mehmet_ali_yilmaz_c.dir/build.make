@@ -441,6 +441,78 @@ CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers1.c.o.provides: CMakeFiles/mehmet_ali
 CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers1.c.o.provides.build: CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers1.c.o
 
 
+CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o: CMakeFiles/mehmet_ali_yilmaz_c.dir/flags.make
+CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o: ../one_d_pointers.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o   -c /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/one_d_pointers.c
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/one_d_pointers.c > CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.i
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/one_d_pointers.c -o CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.s
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o.requires:
+
+.PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o.requires
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o.provides: CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o.requires
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o.provides.build
+.PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o.provides
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o.provides.build: CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o
+
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o: CMakeFiles/mehmet_ali_yilmaz_c.dir/flags.make
+CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o: ../dynamıc_pointers.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o   -c /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/dynamıc_pointers.c
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/dynamıc_pointers.c > CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.i
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/dynamıc_pointers.c -o CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.s
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o.requires:
+
+.PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o.requires
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o.provides: CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o.requires
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o.provides.build
+.PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o.provides
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o.provides.build: CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o
+
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o: CMakeFiles/mehmet_ali_yilmaz_c.dir/flags.make
+CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o: ../dynamic_odev.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o   -c /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/dynamic_odev.c
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/dynamic_odev.c > CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.i
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/dynamic_odev.c -o CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.s
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o.requires:
+
+.PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o.requires
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o.provides: CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o.requires
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o.provides.build
+.PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o.provides
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o.provides.build: CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o
+
+
 # Object files for target mehmet_ali_yilmaz_c
 mehmet_ali_yilmaz_c_OBJECTS = \
 "CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o" \
@@ -458,7 +530,10 @@ mehmet_ali_yilmaz_c_OBJECTS = \
 "CMakeFiles/mehmet_ali_yilmaz_c.dir/string_ops.c.o" \
 "CMakeFiles/mehmet_ali_yilmaz_c.dir/array_examples.c.o" \
 "CMakeFiles/mehmet_ali_yilmaz_c.dir/array_hw.c.o" \
-"CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers1.c.o"
+"CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers1.c.o" \
+"CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o" \
+"CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o" \
+"CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o"
 
 # External object files for target mehmet_ali_yilmaz_c
 mehmet_ali_yilmaz_c_EXTERNAL_OBJECTS =
@@ -479,9 +554,12 @@ mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/string_ops.c.o
 mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/array_examples.c.o
 mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/array_hw.c.o
 mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers1.c.o
+mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o
+mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o
+mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o
 mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make
 mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking C executable mehmet_ali_yilmaz_c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Linking C executable mehmet_ali_yilmaz_c"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mehmet_ali_yilmaz_c.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -505,6 +583,9 @@ CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/
 CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/array_examples.c.o.requires
 CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/array_hw.c.o.requires
 CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers1.c.o.requires
+CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o.requires
+CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o.requires
+CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o.requires
 
 .PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/requires
 

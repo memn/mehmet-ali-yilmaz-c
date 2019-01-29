@@ -6,6 +6,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/array_examples.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/array_examples.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/array_hw.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/array_hw.c.o"
+  "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/dynamic_odev.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o"
+  "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/dynamıc_pointers.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/for_examples.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/functions_examples.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/functions_examples.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/if_else.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/if_else.c.o"
@@ -16,6 +18,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/main.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/number_guess.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.o"
+  "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/one_d_pointers.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/pointers1.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers1.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/string_ops.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/string_ops.c.o"
