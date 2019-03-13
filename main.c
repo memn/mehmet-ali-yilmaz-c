@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <stdbool.h>
 
 #define MAX_STRING_LENGTH 6
 
@@ -26,6 +27,9 @@ struct town {
     int offices_count;
 };
 
+bool targetCanCarry(int target_min, int target_max, int sending) {
+    return sending <= target_max && sending >= target_min;
+}
 
 
 typedef struct town town;
@@ -51,22 +55,20 @@ void send_package_to(post_office *office, package pack) {
         new_queue[i] = office->packages[i];
     }
     new_queue[office->packages_count] = pack;
-    free(office->packages);
+//    free(office->packages);
     office->packages = new_queue;
     office->packages_count++;
 
 }
 
 void send_all_acceptable_packages(town *source, int source_office_index, town *target, int target_office_index) {
-
-    post_office source_office = source->offices[source_office_index];
-    post_office target_office = target->offices[target_office_index];
+    int target_max = target->offices[target_office_index].max_weight;
+    int target_min = target->offices[target_office_index].min_weight;
     int remaning_count = 0;
-
-    for (int i = 0; i < source_office.packages_count; ++i) {
-        package sending = source_office.packages[i];
-        if (sending.weight <= target_office.max_weight && sending.weight >= target_office.min_weight) {
-            send_package_to(&target_office, sending);
+    for (int i = 0; i < source->offices[source_office_index].packages_count; ++i) {
+        package sending = source->offices[source_office_index].packages[i];
+        if (targetCanCarry(target_min, target_max, sending.weight)) {
+            send_package_to(&target->offices[target_office_index], sending);
             sending.weight = -1;
 
         } else {
@@ -74,17 +76,16 @@ void send_all_acceptable_packages(town *source, int source_office_index, town *t
         }
     }
     // tekrar kalanlari siraya koy
-
     package *remanings = malloc(sizeof(package) * remaning_count);
-    for (int j = 0, i = 0; j < source_office.packages_count; ++j) {
-        if (source_office.packages[j].weight != -1) {
-            remanings[i++] = source_office.packages[j];
+    for (int j = 0, i = 0; j < source->offices[source_office_index].packages_count; ++j) {
+        if (source->offices[source_office_index].packages[j].weight != -1) {
+            remanings[i++] = source->offices[source_office_index].packages[j];
         }
     }
     // eskileri sil
-    free(source_office.packages);
-    source_office.packages = remanings;
-    source_office.packages_count = remaning_count;
+//    free(source->offices[source_office_index].packages);
+    source->offices[source_office_index].packages = remanings;
+    source->offices[source_office_index].packages_count = remaning_count;
 
 }
 
@@ -111,9 +112,8 @@ town town_with_most_packages(town *towns, int towns_count) {
 }
 
 town *find_town(town *towns, int towns_count, char *name) {
-
-    for (int i = 0; i < towns_count; ++i) {
-        if (strcmp(towns[i].name, name)) {
+    for (int i = 0; i < towns_count; i++) {
+        if (strcmp(towns[i].name, name) == 0) {
             return &towns[i];
         }
     }
