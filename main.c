@@ -1,73 +1,50 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <math.h>
 
-struct triangle {
-    int a;
-    int b;
-    int c;
-};
+char *curiousExamples();
 
-typedef struct triangle triangle;
-
-double area(triangle t) {
-//    p*(p-a)*(p-b)*(p-c)^1/2
-    double p = (t.a + t.b + t.c) / 2.0;
-    return sqrt(p * (p - t.a) * (p - t.b) * (p - t.c));
-}
-
-int find_min_index(triangle *triangles, int n, int current) {
-    int min_index = current;
-    double min_value = area(triangles[current]);
-
-    for (int i = current; i < n; ++i) {
-        double look_value = area(triangles[i]);
-        if (look_value < min_value) {
-            min_index = i;
-            min_value = look_value;
-        }
-    }
-    return min_index;
-}
-
-void swapper(triangle *triangles, int current, int min) {
-    if (current == min)
-        return;
-
-//    temp=current
-//    current = min
-//    min = temp
-
-    triangle temp = {triangles[current].a, triangles[current].b, triangles[current].c};
-    triangles[current].a = triangles[min].a;
-    triangles[current].b = triangles[min].b;
-    triangles[current].c = triangles[min].c;
-    triangles[min].a = temp.a;
-    triangles[min].b = temp.b;
-    triangles[min].c = temp.c;
-
-}
-
-// uses selection sort
-void sort_by_area(triangle *tr, int n) {
-    for (int current = 0; current < n; ++current) {
-        // find min
-        int min_index = find_min_index(tr, n, current);
-        // swap with first
-        swapper(tr, current, min_index);
-    }
-}
+void print_words_char_counts(char *line_ptr);
 
 int main() {
-    int n;
-    scanf("%d", &n);
-    triangle *tr = malloc(n * sizeof(triangle));
-    for (int i = 0; i < n; i++) {
-        scanf("%d%d%d", &tr[i].a, &tr[i].b, &tr[i].c);
-    }
-    sort_by_area(tr, n);
-    for (int i = 0; i < n; i++) {
-        printf("%d %d %d\n", tr[i].a, tr[i].b, tr[i].c);
-    }
+//    Example: Write a program to count the characters and the words in the input until a newline
+//    character is entered.
+    char line[100];
+    char *line_ptr;
+    printf("Type in a line of data:\n");
+    line_ptr = gets(line);
+    print_words_char_counts(line_ptr);
     return 0;
+}
+
+void print_words_char_counts(char *line) {
+    //bn e kadar kaç tane char olduğunu bulacağız.
+    int i = 0;
+    int char_count = 0;
+    int word_count = 0;
+    while (line[i] != '\0') {
+        char_count++;
+        if (line[i] == ' ') {
+            word_count++;
+        }
+        i++;
+
+    }
+    printf("%d\n ", char_count);
+    printf("%d ", word_count);
+
+
+}
+
+char *curiousExamples() {
+    char name1[5] = "Esin";
+    printf("%s\n", name1);
+    char name2[5] = {'D', 'e', 'n', 'i', 'z'};
+    printf("%s\n", name2);
+    printf("%s\n", name1 + 2);
+    char str[50];
+    char str2[50];
+    printf("Enter a string (finish with a question mark): ");
+    scanf("%[^?]%s", str, str2);
+    printf("%s\n", str);
+    printf("%s\n", str2);
+
 }
