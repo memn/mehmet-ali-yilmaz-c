@@ -20,6 +20,12 @@ array_hw.h
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/array_hw.h
 
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/bubble-sort.c
+stdbool.h
+-
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/bubble-sort.h
+
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/dynamic_odev.c
 dynamic_odev.h
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/dynamic_odev.h
@@ -94,6 +100,12 @@ io_examples.h
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/io_examples.h
 
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/linear_search.c
+linear_search.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/linear_search.h
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/linear_search.h
+
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loop_odev_cozumu.c
 stdio.h
 -
@@ -113,10 +125,14 @@ time.h
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.h
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/main.c
-stdlib.h
--
 stdio.h
 -
+stdlib.h
+-
+bubble-sort.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/bubble-sort.h
+linear_search.h
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/linear_search.h
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/number_guess.c
 number_guess.h
@@ -165,6 +181,12 @@ string.h
 -
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/string_ops.h
+
+/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/structs_lesson.c
+stdlib.h
+-
+stdio.h
+-
 
 /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/user_defined_funcs2.c
 stdio.h

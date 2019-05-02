@@ -7,6 +7,8 @@ CMakeFiles/mehmet_ali_yilmaz_c.dir/array_examples.c.o: ../array_examples.h
 CMakeFiles/mehmet_ali_yilmaz_c.dir/array_hw.c.o: ../array_hw.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/array_hw.c.o: ../array_hw.h
 
+CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o: ../bubble-sort.c
+
 CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o: ../dynamic_odev.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o: ../dynamic_odev.h
 
@@ -31,11 +33,16 @@ CMakeFiles/mehmet_ali_yilmaz_c.dir/intro_example.c.o: ../intro_example.h
 CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.o: ../io_examples.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.o: ../io_examples.h
 
+CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o: ../linear_search.c
+CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o: ../linear_search.h
+
 CMakeFiles/mehmet_ali_yilmaz_c.dir/loop_odev_cozumu.c.o: ../loop_odev_cozumu.c
 
 CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o: ../loops.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o: ../loops.h
 
+CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o: ../bubble-sort.h
+CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o: ../linear_search.h
 CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o: ../main.c
 
 CMakeFiles/mehmet_ali_yilmaz_c.dir/number_guess.c.o: ../number_guess.c
@@ -53,6 +60,8 @@ CMakeFiles/mehmet_ali_yilmaz_c.dir/pointers1.c.o: ../pointers1.h
 CMakeFiles/mehmet_ali_yilmaz_c.dir/string_ops.c.o: ../string_ops.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/string_ops.c.o: ../string_ops.h
 CMakeFiles/mehmet_ali_yilmaz_c.dir/string_ops.c.o: ../user_defined_funcs2.h
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/structs_lesson.c.o: ../structs_lesson.c
 
 CMakeFiles/mehmet_ali_yilmaz_c.dir/user_defined_funcs2.c.o: ../user_defined_funcs2.c
 CMakeFiles/mehmet_ali_yilmaz_c.dir/user_defined_funcs2.c.o: ../user_defined_funcs2.h

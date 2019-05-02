@@ -177,6 +177,60 @@ array_hw.c.s:
 	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/array_hw.c.s
 .PHONY : array_hw.c.s
 
+bubble-sort.o: bubble-sort.c.o
+
+.PHONY : bubble-sort.o
+
+# target to build an object file
+bubble-sort.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o
+.PHONY : bubble-sort.c.o
+
+bubble-sort.i: bubble-sort.c.i
+
+.PHONY : bubble-sort.i
+
+# target to preprocess a source file
+bubble-sort.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.i
+.PHONY : bubble-sort.c.i
+
+bubble-sort.s: bubble-sort.c.s
+
+.PHONY : bubble-sort.s
+
+# target to generate assembly for a file
+bubble-sort.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.s
+.PHONY : bubble-sort.c.s
+
+counting_sort.o: counting_sort.c.o
+
+.PHONY : counting_sort.o
+
+# target to build an object file
+counting_sort.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.o
+.PHONY : counting_sort.c.o
+
+counting_sort.i: counting_sort.c.i
+
+.PHONY : counting_sort.i
+
+# target to preprocess a source file
+counting_sort.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.i
+.PHONY : counting_sort.c.i
+
+counting_sort.s: counting_sort.c.s
+
+.PHONY : counting_sort.s
+
+# target to generate assembly for a file
+counting_sort.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.s
+.PHONY : counting_sort.c.s
+
 dynamic_odev.o: dynamic_odev.c.o
 
 .PHONY : dynamic_odev.o
@@ -392,6 +446,33 @@ io_examples.s: io_examples.c.s
 io_examples.c.s:
 	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.s
 .PHONY : io_examples.c.s
+
+linear_search.o: linear_search.c.o
+
+.PHONY : linear_search.o
+
+# target to build an object file
+linear_search.c.o:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o
+.PHONY : linear_search.c.o
+
+linear_search.i: linear_search.c.i
+
+.PHONY : linear_search.i
+
+# target to preprocess a source file
+linear_search.c.i:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.i
+.PHONY : linear_search.c.i
+
+linear_search.s: linear_search.c.s
+
+.PHONY : linear_search.s
+
+# target to generate assembly for a file
+linear_search.c.s:
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.s
+.PHONY : linear_search.c.s
 
 loop_odev_cozumu.o: loop_odev_cozumu.c.o
 
@@ -678,6 +759,12 @@ help:
 	@echo "... array_hw.o"
 	@echo "... array_hw.i"
 	@echo "... array_hw.s"
+	@echo "... bubble-sort.o"
+	@echo "... bubble-sort.i"
+	@echo "... bubble-sort.s"
+	@echo "... counting_sort.o"
+	@echo "... counting_sort.i"
+	@echo "... counting_sort.s"
 	@echo "... dynamic_odev.o"
 	@echo "... dynamic_odev.i"
 	@echo "... dynamic_odev.s"
@@ -702,6 +789,9 @@ help:
 	@echo "... io_examples.o"
 	@echo "... io_examples.i"
 	@echo "... io_examples.s"
+	@echo "... linear_search.o"
+	@echo "... linear_search.i"
+	@echo "... linear_search.s"
 	@echo "... loop_odev_cozumu.o"
 	@echo "... loop_odev_cozumu.i"
 	@echo "... loop_odev_cozumu.s"

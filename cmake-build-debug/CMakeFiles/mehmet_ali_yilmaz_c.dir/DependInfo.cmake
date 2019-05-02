@@ -6,6 +6,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/array_examples.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/array_examples.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/array_hw.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/array_hw.c.o"
+  "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/bubble-sort.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o"
+  "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/counting_sort.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/dynamic_odev.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/dynamıc_pointers.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/for_examples.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/for_examples.c.o"
@@ -14,6 +16,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/intro.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/intro.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/intro_example.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/intro_example.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/io_examples.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/io_examples.c.o"
+  "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/linear_search.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loop_odev_cozumu.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/loop_odev_cozumu.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/loops.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/loops.c.o"
   "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/main.c" "/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o"

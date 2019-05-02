@@ -19,6 +19,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o"
   "CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o"
   "CMakeFiles/mehmet_ali_yilmaz_c.dir/structs_lesson.c.o"
+  "CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o"
+  "CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o"
+  "CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.o"
   "mehmet_ali_yilmaz_c.pdb"
   "mehmet_ali_yilmaz_c"
 )

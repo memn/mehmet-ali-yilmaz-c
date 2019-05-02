@@ -537,6 +537,78 @@ CMakeFiles/mehmet_ali_yilmaz_c.dir/structs_lesson.c.o.provides: CMakeFiles/mehme
 CMakeFiles/mehmet_ali_yilmaz_c.dir/structs_lesson.c.o.provides.build: CMakeFiles/mehmet_ali_yilmaz_c.dir/structs_lesson.c.o
 
 
+CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o: CMakeFiles/mehmet_ali_yilmaz_c.dir/flags.make
+CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o: ../bubble-sort.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o   -c /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/bubble-sort.c
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/bubble-sort.c > CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.i
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/bubble-sort.c -o CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.s
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o.requires:
+
+.PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o.requires
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o.provides: CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o.requires
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o.provides.build
+.PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o.provides
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o.provides.build: CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o
+
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o: CMakeFiles/mehmet_ali_yilmaz_c.dir/flags.make
+CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o: ../linear_search.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o   -c /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/linear_search.c
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/linear_search.c > CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.i
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/linear_search.c -o CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.s
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o.requires:
+
+.PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o.requires
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o.provides: CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o.requires
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o.provides.build
+.PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o.provides
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o.provides.build: CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o
+
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.o: CMakeFiles/mehmet_ali_yilmaz_c.dir/flags.make
+CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.o: ../counting_sort.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.o   -c /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/counting_sort.c
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/counting_sort.c > CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.i
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/memn/CLionProjects/mehmet-ali-yilmaz-c/counting_sort.c -o CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.s
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.o.requires:
+
+.PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.o.requires
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.o.provides: CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.o.requires
+	$(MAKE) -f CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.o.provides.build
+.PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.o.provides
+
+CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.o.provides.build: CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.o
+
+
 # Object files for target mehmet_ali_yilmaz_c
 mehmet_ali_yilmaz_c_OBJECTS = \
 "CMakeFiles/mehmet_ali_yilmaz_c.dir/main.c.o" \
@@ -558,7 +630,10 @@ mehmet_ali_yilmaz_c_OBJECTS = \
 "CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o" \
 "CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o" \
 "CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o" \
-"CMakeFiles/mehmet_ali_yilmaz_c.dir/structs_lesson.c.o"
+"CMakeFiles/mehmet_ali_yilmaz_c.dir/structs_lesson.c.o" \
+"CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o" \
+"CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o" \
+"CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.o"
 
 # External object files for target mehmet_ali_yilmaz_c
 mehmet_ali_yilmaz_c_EXTERNAL_OBJECTS =
@@ -583,9 +658,12 @@ mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/one_d_pointers.c.o
 mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o
 mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o
 mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/structs_lesson.c.o
+mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o
+mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o
+mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.o
 mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/build.make
 mehmet_ali_yilmaz_c: CMakeFiles/mehmet_ali_yilmaz_c.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Linking C executable mehmet_ali_yilmaz_c"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/memn/CLionProjects/mehmet-ali-yilmaz-c/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Linking C executable mehmet_ali_yilmaz_c"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/mehmet_ali_yilmaz_c.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -613,6 +691,9 @@ CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/
 CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamıc_pointers.c.o.requires
 CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/dynamic_odev.c.o.requires
 CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/structs_lesson.c.o.requires
+CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/bubble-sort.c.o.requires
+CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/linear_search.c.o.requires
+CMakeFiles/mehmet_ali_yilmaz_c.dir/requires: CMakeFiles/mehmet_ali_yilmaz_c.dir/counting_sort.c.o.requires
 
 .PHONY : CMakeFiles/mehmet_ali_yilmaz_c.dir/requires
 
