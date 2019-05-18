@@ -1,31 +1,28 @@
 
 
-#include "queue.h"
+#include "student.h"
+#include "linked-list.h"
 
 int main() {
 
-    queue_t queue;
-    queue.rear = 0;
-    queue.front = 0;
+    student_t stu = {1, "A1", 32};
+    student_t stu2 = {2, "A2", 123213};
 
-    stu_t stu = {1, "A1"};
+    node_t *list_head = NULL;
 
-    for (int i = 1; i < 15; ++i) {
-        stu.st_id = i;
-        enqueue(stu, &queue);
-    }
-    printQueue(queue);
-    for (int i = 1; i < 3; ++i) {
-        dequeue(&queue);
-    }
+    printf("%d\n", sizeL(list_head)); // 0
 
-    printQueue(queue);
+    list_head = add(NULL, stu);
 
-    for (int i = 1; i < 12; ++i) {
-        dequeue(&queue);
-    }
+    list_head = delete(list_head, 0);
 
-    printQueue(queue);
+    printf("%d\n", sizeL(list_head)); // 1
+
+    add(list_head, stu2);
+
+    printf("%d\n", sizeL(list_head)); // 2
+
+    printL(list_head);
 
     return 0;
 }
