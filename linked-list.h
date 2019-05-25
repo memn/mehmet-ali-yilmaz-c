@@ -15,11 +15,13 @@ typedef struct node_s {
     struct node_s *next;
 } node_t;
 
+node_t *get(node_t *head, int index);
+
 node_t *add(node_t *head, student_t);
 
 node_t *insert(node_t *, student_t, int);
 
-node_t* delete(node_t *, int);
+node_t *delete(node_t *, int);
 
 void printL(node_t *head);
 

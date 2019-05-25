@@ -44,16 +44,22 @@ node_t *add(node_t *head, student_t student) {
 }
 
 node_t *get(node_t *head, int index) {
+    int count = 0;
+    while (count != index) {
+        count++;
+        head = head->next;
+    }
+    return head;
+}
+
+node_t *get2(node_t *head, int index) {
     // index 0 ila size arasindadir.
     // degilse hata donersin.
     node_t *temp = head;
     int count = 0;
-    while (temp->next != NULL) {
+    while (temp->next != NULL && count != index) {
         temp = temp->next;
         count++;
-        if (count == index) {
-            break;
-        }
     }
     return temp;
 }
@@ -62,7 +68,7 @@ node_t *get(node_t *head, int index) {
 // index eger 0 dan kucukse basa ekle demektir
 // eger toplam uzunluktan buyukse veya esıtse sona ekle demektir.
 node_t *insert(node_t *head, student_t student, int index) {
-    if (isEmptyL(head) || index < 0) {
+    if (isEmptyL(head) || index <= 0) {
         return add_beginning(head, student);
     } else if (index > sizeL(head)) {
         return add(head, student);
@@ -70,7 +76,7 @@ node_t *insert(node_t *head, student_t student, int index) {
     node_t *new = (node_t *) malloc(sizeof(node_t));
     new->data = student;
     // koyacagimiz yeri bul.
-    node_t *at = get(head, index);
+    node_t *at = get(head, index - 1);
     // index-1 ' in nextini new e eşitleyeceğiz.
     // new in nesxt i ni de index+1 e eşitleyeceğiz.
     new->next = at->next;
