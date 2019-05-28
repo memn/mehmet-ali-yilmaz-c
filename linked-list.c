@@ -81,6 +81,7 @@ node_t *insert(node_t *head, student_t student, int index) {
     // new in nesxt i ni de index+1 e eşitleyeceğiz.
     new->next = at->next;
     at->next = new;
+    return head;
 }
 
 
